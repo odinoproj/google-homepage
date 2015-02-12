@@ -1,2 +1,4 @@
 # google-homepage
-the odin project course first project :)
+Google Homepage
+
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
